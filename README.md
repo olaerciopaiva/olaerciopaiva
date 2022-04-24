@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Salve, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/olaerciopaiva/"><i>Laércio Paiva</i></a> 😃️</h1>
+  <h1 align="center">OLá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/olaerciopaiva/"><i>Laércio Paiva</i></a> 😃️</h1>
   <p align="center">Estudo Gestão da tecnologia da informação na <a href="https://www.univates.br/"><i>UNIVATES</i></a>, e Analise e desenvolvimento de sistemas, Aqui vou postar uns testes e aprendizados.
   <p align="center">Fique a vontade para aprender comigo, ou me dar dicas.😉️</h2>
 </div>
