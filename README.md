@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/olaerciopaiva/"><i>Laércio Paiva</i></a> 😃️</h1>
   <p align="center">Estudo Gestão da tecnologia da informação na <a href="https://www.univates.br/"><i>UNIVATES</i></a>, e Analise e desenvolvimento de sistemas, Aqui vou postar uns testes e aprendizados.
-  <p align="center">Fique a vontade para aprender comigo, ou me dar dicas.😉️</h2>
+  <p align="center">Como uma forma de me desafiar ainda mais do que estar cursando duas graduações, vou iniciar meu estudos em Java e mudar meu foco profissional para Java, deixando de lado o PHP que me deu uma base de logica e muitos aprendizados nos meus primeiros dois estágios.</h2>
 </div>
 <div align="center">
   <a href="https://github.com/olaerciopaiva">
